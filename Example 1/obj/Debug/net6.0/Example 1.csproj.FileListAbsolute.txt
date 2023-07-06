@@ -1,0 +1,30 @@
+E:\Апреленко\C#\Home work 8\Example 1\bin\Debug\net6.0\Example 1.exe
+E:\Апреленко\C#\Home work 8\Example 1\bin\Debug\net6.0\Example 1.deps.json
+E:\Апреленко\C#\Home work 8\Example 1\bin\Debug\net6.0\Example 1.runtimeconfig.json
+E:\Апреленко\C#\Home work 8\Example 1\bin\Debug\net6.0\Example 1.dll
+E:\Апреленко\C#\Home work 8\Example 1\bin\Debug\net6.0\Example 1.pdb
+E:\Апреленко\C#\Home work 8\Example 1\obj\Debug\net6.0\Example 1.csproj.AssemblyReference.cache
+E:\Апреленко\C#\Home work 8\Example 1\obj\Debug\net6.0\Example 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Апреленко\C#\Home work 8\Example 1\obj\Debug\net6.0\Example 1.AssemblyInfoInputs.cache
+E:\Апреленко\C#\Home work 8\Example 1\obj\Debug\net6.0\Example 1.AssemblyInfo.cs
+E:\Апреленко\C#\Home work 8\Example 1\obj\Debug\net6.0\Example 1.csproj.CoreCompileInputs.cache
+E:\Апреленко\C#\Home work 8\Example 1\obj\Debug\net6.0\Example 1.dll
+E:\Апреленко\C#\Home work 8\Example 1\obj\Debug\net6.0\refint\Example 1.dll
+E:\Апреленко\C#\Home work 8\Example 1\obj\Debug\net6.0\Example 1.pdb
+E:\Апреленко\C#\Home work 8\Example 1\obj\Debug\net6.0\Example 1.genruntimeconfig.cache
+E:\Апреленко\C#\Home work 8\Example 1\obj\Debug\net6.0\ref\Example 1.dll
+D:\IT-обучение\C# Home work Lesson 8\Example 1\bin\Debug\net6.0\Example 1.exe
+D:\IT-обучение\C# Home work Lesson 8\Example 1\bin\Debug\net6.0\Example 1.deps.json
+D:\IT-обучение\C# Home work Lesson 8\Example 1\bin\Debug\net6.0\Example 1.runtimeconfig.json
+D:\IT-обучение\C# Home work Lesson 8\Example 1\bin\Debug\net6.0\Example 1.dll
+D:\IT-обучение\C# Home work Lesson 8\Example 1\bin\Debug\net6.0\Example 1.pdb
+D:\IT-обучение\C# Home work Lesson 8\Example 1\obj\Debug\net6.0\Example 1.csproj.AssemblyReference.cache
+D:\IT-обучение\C# Home work Lesson 8\Example 1\obj\Debug\net6.0\Example 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT-обучение\C# Home work Lesson 8\Example 1\obj\Debug\net6.0\Example 1.AssemblyInfoInputs.cache
+D:\IT-обучение\C# Home work Lesson 8\Example 1\obj\Debug\net6.0\Example 1.AssemblyInfo.cs
+D:\IT-обучение\C# Home work Lesson 8\Example 1\obj\Debug\net6.0\Example 1.csproj.CoreCompileInputs.cache
+D:\IT-обучение\C# Home work Lesson 8\Example 1\obj\Debug\net6.0\Example 1.dll
+D:\IT-обучение\C# Home work Lesson 8\Example 1\obj\Debug\net6.0\refint\Example 1.dll
+D:\IT-обучение\C# Home work Lesson 8\Example 1\obj\Debug\net6.0\Example 1.pdb
+D:\IT-обучение\C# Home work Lesson 8\Example 1\obj\Debug\net6.0\Example 1.genruntimeconfig.cache
+D:\IT-обучение\C# Home work Lesson 8\Example 1\obj\Debug\net6.0\ref\Example 1.dll
