@@ -1,0 +1,20 @@
+E:\Апреленко\C#\Home work 8\Example 3\obj\Debug\net6.0\Example 3.csproj.AssemblyReference.cache
+E:\Апреленко\C#\Home work 8\Example 3\obj\Debug\net6.0\Example 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Апреленко\C#\Home work 8\Example 3\obj\Debug\net6.0\Example 3.AssemblyInfoInputs.cache
+E:\Апреленко\C#\Home work 8\Example 3\obj\Debug\net6.0\Example 3.AssemblyInfo.cs
+E:\Апреленко\C#\Home work 8\Example 3\obj\Debug\net6.0\Example 3.csproj.CoreCompileInputs.cache
+D:\IT-обучение\C# Home work Lesson 8\Example 3\obj\Debug\net6.0\Example 3.csproj.AssemblyReference.cache
+D:\IT-обучение\C# Home work Lesson 8\Example 3\obj\Debug\net6.0\Example 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT-обучение\C# Home work Lesson 8\Example 3\obj\Debug\net6.0\Example 3.AssemblyInfoInputs.cache
+D:\IT-обучение\C# Home work Lesson 8\Example 3\obj\Debug\net6.0\Example 3.AssemblyInfo.cs
+D:\IT-обучение\C# Home work Lesson 8\Example 3\obj\Debug\net6.0\Example 3.csproj.CoreCompileInputs.cache
+D:\IT-обучение\C# Home work Lesson 8\Example 3\bin\Debug\net6.0\Example 3.exe
+D:\IT-обучение\C# Home work Lesson 8\Example 3\bin\Debug\net6.0\Example 3.deps.json
+D:\IT-обучение\C# Home work Lesson 8\Example 3\bin\Debug\net6.0\Example 3.runtimeconfig.json
+D:\IT-обучение\C# Home work Lesson 8\Example 3\bin\Debug\net6.0\Example 3.dll
+D:\IT-обучение\C# Home work Lesson 8\Example 3\bin\Debug\net6.0\Example 3.pdb
+D:\IT-обучение\C# Home work Lesson 8\Example 3\obj\Debug\net6.0\Example 3.dll
+D:\IT-обучение\C# Home work Lesson 8\Example 3\obj\Debug\net6.0\refint\Example 3.dll
+D:\IT-обучение\C# Home work Lesson 8\Example 3\obj\Debug\net6.0\Example 3.pdb
+D:\IT-обучение\C# Home work Lesson 8\Example 3\obj\Debug\net6.0\Example 3.genruntimeconfig.cache
+D:\IT-обучение\C# Home work Lesson 8\Example 3\obj\Debug\net6.0\ref\Example 3.dll
